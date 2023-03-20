@@ -1,4 +1,4 @@
-module open_im_sdk
+module github.com/leixjin/Open-IM-SDK-Core
 
 go 1.15
 
